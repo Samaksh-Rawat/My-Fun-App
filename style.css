@@ -1,0 +1,19 @@
+#apps
+{
+background-color: aquamarine;
+}
+.line
+{
+height:6px;
+width:70px;
+margin:8px auto;
+background-color: black;
+}
+#games
+{
+background-color: coral;
+}
+body{
+text-align: center;
+
+}
